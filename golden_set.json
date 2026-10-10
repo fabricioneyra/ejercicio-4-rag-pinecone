@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Qué significa el error E4021 y cómo se soluciona?",
+    "documento_id_esperado": "codigos_de_error"
+  },
+  {
+    "pregunta": "¿Cómo configuro el factor de espera exponencial entre reintentos de una tarea?",
+    "documento_id_esperado": "reintentos_y_backoff"
+  },
+  {
+    "pregunta": "¿Cómo programo una tarea para que se ejecute cada 5 minutos?",
+    "documento_id_esperado": "programacion_cron"
+  },
+  {
+    "pregunta": "¿Qué extra tengo que instalar para usar Redis como broker?",
+    "documento_id_esperado": "instalacion"
+  },
+  {
+    "pregunta": "¿Cómo detengo un worker sin perder las tareas que está ejecutando?",
+    "documento_id_esperado": "despliegue_produccion"
+  }
+]
